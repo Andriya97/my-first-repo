@@ -25,9 +25,5 @@ This is just a bunch of small, fun Python projects I’ve made while learning. N
 - Play with strings, f-strings, and random stuff
 - Just vibe with some beginner projects 🤩
 
-## ✨ Coming Soon
-
-- More mini-games: Tic-Tac-Toe, Hangman, maybe Snake 🐍
-- Random beginner-friendly algorithms & coding exercises
 
 Happy coding & have fun! 🐍💻
